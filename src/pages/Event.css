@@ -1,0 +1,10 @@
+.event-img {
+  max-height: 400px;
+  max-width: 100%;
+  object-fit: cover;
+  width: auto;
+}
+
+.bi-box-arrow-up-right {
+  font-size: 0.8rem !important;
+}

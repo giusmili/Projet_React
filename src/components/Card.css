@@ -1,0 +1,19 @@
+.card-cover {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover !important;
+}
+
+.custom-info {
+  background-color: #4fc1f2 !important;
+  border-color: #4fc1f2 !important;
+}
+
+.custom-info:hover {
+  background-color: #44abd6 !important;
+}
+
+.btn-over-stretched {
+  position: relative;
+  z-index: 2;
+}
